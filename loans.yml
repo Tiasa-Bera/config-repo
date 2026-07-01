@@ -1,0 +1,11 @@
+build:
+  version: "1.0.0"
+
+loans:
+  message: "Welcome to the Loan Service!"
+  contactDetails:
+    name: "John Doe"
+    email: "john@gmail.com"
+  onCallSupport:
+    - (555) 123-4567
+    - (555) 987-6543

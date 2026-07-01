@@ -1,0 +1,10 @@
+build:
+  version: "1.0.0"
+loans:
+  message: "Welcome to the Production Loan Service!"
+  contactDetails:
+    name: "Tiasa B"
+    email: "tiasab@gmail.com"
+  onCallSupport:
+    -(+91) 143-4567
+    -(+91) 987-6543

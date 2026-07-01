@@ -1,0 +1,10 @@
+build:
+  version: "2.0.0"
+accounts:
+  message: "Welcome to the Accounts QA Service!"
+  contactDetails:
+    name: "Merry Doe"
+    email: "merrydoe@gmail.com"
+  onCallSupport:
+    -(666) 123-4567
+    -(666) 987-6543

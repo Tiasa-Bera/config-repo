@@ -1,0 +1,10 @@
+build:
+  version: "2.0.0"
+cards:
+  message: "Welcome to the Cards QA Service!"
+  contactDetails:
+    name: "Merry Doe"
+    email: "merrydoe@gmail.com"
+  onCallSupport:
+    -(666) 143-4567
+    -(666) 987-6543
