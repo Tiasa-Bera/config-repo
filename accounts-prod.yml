@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to the Production Accounts Service!"
   contactDetails:
     name: "Tiasa B"
-    email: "tiasab@gmail.com"
+    email: "{cipher}844ea9407ac74c7b719ab900a4c8c209e145711f389027dff7a33791006eb6aad0dcbf3a00bd18b3e2b5ba39d273d4ae"
   onCallSupport:
     -(+91) 123-4567
     -(+91) 987-6543
