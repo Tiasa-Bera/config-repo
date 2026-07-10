@@ -1,7 +1,7 @@
 build:
   version: "1.0.0"
 cards:
-  message: "Welcome to the Prod Card Service!"
+  message: "Welcome to the Production Card Service!"
   contactDetails:
     name: "Tiasa B"
     email: "tiasab@gmail.com"
