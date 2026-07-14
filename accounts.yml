@@ -1,7 +1,7 @@
 build:
   version: "3.0.0"
 accounts:
-  message: "Welcome to the Accounts default with docker new Service!"
+  message: "Welcome to the Accounts default with docker new1 Service!"
   contactDetails:
     name: "John Doe"
     email: "johndoe@gmail.com"
